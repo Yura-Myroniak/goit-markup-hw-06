@@ -1182,6 +1182,10 @@ width: calc((100% - 24px) / 2);
 height: auto;
 } 
 
+.team-team {
+    width: 584px;
+}
+
 
 
 /* -------------------- */
